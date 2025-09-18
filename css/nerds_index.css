@@ -1294,6 +1294,7 @@ input[type="radio"].visually-hidden {
 
 .map > img {
     position: absolute;
+    left: 0;
     
     width: 100%;
     min-height: 420px;
