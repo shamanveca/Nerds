@@ -30,12 +30,3 @@
 <div align="center">
   <img width="2880" height="2220" alt="обр" src="https://github.com/user-attachments/assets/4320b243-4ae3-4932-bf18-6cb1eddfe3ba" />
 </div>
-
---------------------------------------------
-
-<br>
-
-### Главная страница
-<div align="center">
-  <img width="2448" height="5182" alt="127 0 0 1_5500_Nerds_nerds_index html" src="https://github.com/user-attachments/assets/f3002efc-dd37-4717-bef9-6982572c749a" />
-</div>
